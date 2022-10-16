@@ -69,7 +69,7 @@ http://62.28.71.186:45678/http/192.168.150.50:7050/discovery
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",Disney Channel
 http://62.28.71.186:45678/http/192.168.150.50:7050/disney
 
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",Disney Channel
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",Cartoon Network
 http://62.28.71.186:45678/http/192.168.150.50:7050/cartoon
 
 #EXTINF:-1 group-title="Portugal" tvg-id="SICRadical.ptt",Sic Radical
