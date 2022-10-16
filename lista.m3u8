@@ -16,7 +16,7 @@ http://62.28.71.186:45678/http/192.168.150.50:7050/sic
 http://62.28.71.186:45678/http/192.168.150.50:7050/tvi
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",TVI Reality
-https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/chunks.m3u8
+http://62.28.71.186:45678/http/192.168.150.173:7007/tvireality
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",CMTV
 http://62.28.71.186:45678/http/192.168.150.50:7050/cmtv
@@ -63,11 +63,20 @@ http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",Eleven 6 OFF
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven6
 
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",Motorvision
+http://62.28.71.186:45678/http/192.168.150.173:7500/motorvision
+
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",Discovery Channel
 http://62.28.71.186:45678/http/192.168.150.50:7050/discovery
 
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",Canal Panda
+http://62.28.71.186:45678/http/192.168.150.50:7050/panda
+
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",Disney Channel
 http://62.28.71.186:45678/http/192.168.150.50:7050/disney
+
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",Disney Junior
+http://62.28.71.186:45678/http/192.168.150.50:7050/disneyjunior
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",Cartoon Network
 http://62.28.71.186:45678/http/192.168.150.50:7050/cartoon
@@ -80,6 +89,9 @@ http://62.28.71.186:45678/http/192.168.108.84:7050/mtv
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",Afro Music
+http://62.28.71.186:45678/http/192.168.150.50:7050/afromusic
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",24Kitchen
 http://62.28.71.186:45678/http/192.168.150.50:7050/24kitchen
@@ -99,11 +111,17 @@ http://62.28.71.186:45678/http/192.168.150.173:7777/tvcine4hd
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",AXN
 http://62.28.71.186:45678/http/192.168.150.50:7050/axn
 
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",AXN White
+http://62.28.71.186:45678/http/192.168.150.50:7050/axnwhite
+
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",AXN Movies
 http://62.28.71.186:45678/http/192.168.150.50:7050/axnblack
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",FOX
 http://62.28.71.186:45678/http/192.168.150.50:7050/fox
+
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",FOX Crime
+http://62.28.71.186:45678/http/192.168.150.50:7050/foxcrime
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",FOX Movies
 http://62.28.71.186:45678/http/192.168.150.50:7050/foxmovies
@@ -114,8 +132,11 @@ http://62.28.71.186:45678/http/192.168.150.137:7050/hollywoodhd
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",Cinemundo
 http://62.28.71.186:45678/http/192.168.150.137:7050/cinemundohd
 
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",SyFy
+http://62.28.71.186:45678/http/192.168.150.50:7050/syfy
+
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",National Geographic
+http://62.28.71.186:45678/http/192.168.150.50:7050/nationalgeographic
+
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",BBC One London
 http://62.28.71.186:45678/http/192.168.150.154:7154/bbconelondon
-
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",Canal teste
-http://62.28.71.186:45678/http/192.168.150.173:7777/hot
