@@ -39,8 +39,11 @@ http://62.28.71.186:45678/http/192.168.150.173:7987/sptv1hd
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",SportTV 2
 http://62.28.71.186:45678/http/192.168.150.173:7975/sptv2hd
 
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",SportTV 3 4 5 e 6 OFF
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",SportTV 3 OFF
 http://62.28.71.186:45678/http/192.168.150.173:7073/spt3
+
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",SportTV 4
+http://62.28.71.186:45678/http/192.168.150.173:7173/sptv4
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",Eleven 1
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
@@ -78,6 +81,12 @@ http://62.28.71.186:45678/http/192.168.150.50:7050/24kitchen
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",TVCine TOP
 http://62.28.71.186:45678/http/192.168.150.173:7777/tvcine1hd
 
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",TVCine Emotion
+http://62.28.71.186:45678/http/192.168.150.173:7777/tvcineemotion
+
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",TVCine Edition
+http://62.28.71.186:45678/http/192.168.150.173:7777/tvcineedition
+
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",TVCine Action
 http://62.28.71.186:45678/http/192.168.150.173:7777/tvcine4hd
 
@@ -86,6 +95,9 @@ http://62.28.71.186:45678/http/192.168.150.50:7050/axnblack
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",FOX
 http://62.28.71.186:45678/http/192.168.150.50:7050/fox
+
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",FOX Movies
+http://62.28.71.186:45678/http/192.168.150.50:7050/foxmovies
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",Hollywoodhd
 http://62.28.71.186:45678/http/192.168.150.137:7050/hollywoodhd
