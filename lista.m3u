@@ -46,7 +46,7 @@ http://62.28.71.186:45678/http/192.168.150.50:7050/sportingtv
 http://comag.rip:8000/50738601689735/03751643107136/66469
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="sptv2hd.tv.vodafone.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/blob/main/logos/Sport-TV-2.png?raw=true",Sport TV 2
-http://comag.rip:8000/50738601689735/03751643107136/66467
+http://62.28.71.186:45678/http/192.168.150.173:7975/sptv2hd
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="sptv3hd.tv.vodafone.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/blob/main/logos/Sport-TV-3.png?raw=true",Sport TV 3
 http://comag.rip:8000/50738601689735/03751643107136/66465
