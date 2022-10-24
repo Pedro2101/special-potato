@@ -90,6 +90,9 @@ http://62.28.71.186:45678/http/192.168.150.50:7050/discovery
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="pandahd.tv.vodafone.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/blob/main/logos/Panda.png?raw=true",Canal Panda
 http://62.28.71.186:45678/http/192.168.150.50:7050/panda
 
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="pandab.tv.vodafone.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/blob/main/logos/Biggs.png?raw=true",Panda Biggs
+http://62.28.71.186:45678/http/192.168.150.50:7050/biggs
+
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="disney.tv.vodafone.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/blob/main/logos/Disney-Channel.png?raw=true",Disney Channel
 http://62.28.71.186:45678/http/192.168.150.50:7050/disney
 
