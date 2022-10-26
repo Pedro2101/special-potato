@@ -37,6 +37,9 @@ http://62.28.71.186:45678/http/192.168.150.50:7050/canal11
 http://62.28.71.186:45678/http/192.168.150.173:7007/tvireality
 
 #EXTINF:-1 group-title="Desporto" tvg-id="btv1hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BTV.png",Benfica TV
+http://comag.rip:8000/50738601689735/03751643107136/29349
+
+#EXTINF:-1 group-title="Desporto" tvg-id="btv1hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BTV.png",Benfica TV BACKUP
 http://62.28.71.186:45678/http/192.168.150.173:7000/btv1
 
 #EXTINF:-1 group-title="Desporto" tvg-id="scptvhd.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b4/Sporting_TV.png",Sporting TV
@@ -67,7 +70,7 @@ http://comag.rip:8000/50738601689735/03751643107136/66450
 http://comag.rip:8000/50738601689735/03751643107136/66449
 
 #EXTINF:-1 group-title="Desporto" tvg-id="eleven3.tv.vodafone.pt" tvg-logo="https://img.dge-prod.dicelaboratory.com/150xAUTO/2021/10/19095814-7ububo4jlpddigjs.png",Eleven Sports 3
-http://comag.rip:8000/50738601689735/03751643107136/66448
+http://comag.rip:8000/50738601689735/03751643107136/22518
 
 #EXTINF:-1 group-title="Desporto" tvg-id="eleven4.tv.vodafone.pt" tvg-logo="https://img.dge-prod.dicelaboratory.com/150xAUTO/2021/10/19095840-tdvlirwvy0bil3tm.png",Eleven Sports 4
 http://comag.rip:8000/50738601689735/03751643107136/66447
